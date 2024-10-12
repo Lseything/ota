@@ -10,7 +10,7 @@ Alex Changes:
 • topaz: Miscellaneous tweaks through props
 • topaz: Enable frame pacing for smoother visual performance
 • topaz: Bring back support for disabling backpressure propagation
-• topaz: Explicitly disable "Enable GL comp backpressure"
+• topaz: Explicitly disable Enable GL comp backpressure
 • topaz: Disable SF client composition cache
 • topaz: overlay-lineage: Disable turbulence noise
 • topaz: fastcharge without heat
