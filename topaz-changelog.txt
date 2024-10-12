@@ -6,6 +6,13 @@ Derpfest Changes:
 • derpfest: Standard Android features and some simple customizations added
 
 Alex Changes:
+• topaz: Welcome Derpfest: Android 15 3/5
+• topaz: Miscellaneous tweaks through props
+• topaz: Enable frame pacing for smoother visual performance
+• topaz: Bring back support for disabling backpressure propagation
+• topaz: Explicitly disable "Enable GL comp backpressure"
+• topaz: Disable SF client composition cache
+• topaz: overlay-lineage: Disable turbulence noise
 • topaz: fastcharge without heat
 • topaz: USSD Fixed
 • topaz: Visual Sms bug fixed
@@ -16,8 +23,7 @@ Alex Changes:
 • topaz: Improvements at 60Hz [WIP]
 • topaz: Reduced lag in QS [WIP]
 • topaz: Experimental changes for improved fluidity
-• topaz: Pure Black Theme fixed
+• topaz: Pure Black Theme fixed [WIP]
 
 Known Issues:
 • derpfest: Visual bug in the fingerprint unlock indicator; it does not affect usage and is a source issue from DerpFest. Fix coming soon.
-
