@@ -1,5 +1,5 @@
   Redmi Note 12 4G | Derpfest Unnoficial  
-       Changelog OTA Update Release 2
+       Changelog OTA Update Release 3
 =========≠=================================
 Derpfest Changes:
 • derpfest: Added DerpFest Launcher
