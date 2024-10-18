@@ -3,12 +3,15 @@
 =========≠=================================
 Derpfest Changes:
 derpfest: Added DerpFest Launcher
+derpfest: Added GameSpace
+derpfest: Added Some Things
 derpfest: Added Pure Black Theme [WIP]
 derpfest: Added Buttons, StatusBar, USB Configuration
 derpfest: More Stability on Usage >> thank you @NurKeinNeid
 
 Alex Changes:
 topaz: Welcome Derpfest: Android 15
+topaz: add status indicator
 topaz: import DeviceSettings from ArrowOS-Devices/sweet
 topaz: DeviceSettings: Introduce Refresh Rate QS tile
 topaz: DeviceSettings: Rewrite Refresh Rate Tile for system-wide settings
