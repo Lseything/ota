@@ -1,24 +1,27 @@
   Redmi Note 12 4G | Derpfest Unnoficial  
        Changelog OTA Update Release 4
+  Credits: Thank you @selfmuser (official developer and @NurKeinNeid (Leader Derpfest) 
 =========≠=================================
 Derpfest Changes:
 derpfest: Added DerpFest Launcher
 derpfest: Added GameSpace
-derpfest: Added Some Things
+derpfest: Added Island Notification
+derpfest: Added ON/OFF charging animation
+derpfest: Added Pocket Detection
+derpfest: Added Face Unlock
+derpfest: Added ParallelSpace
 derpfest: Added Pure Black Theme [WIP]
-derpfest: Added Buttons, StatusBar, USB Configuration
-derpfest: More Stability on Usage >> thank you @NurKeinNeid
+derpfest: Added Buttons, StatusBar,USB Config
 
 Alex Changes:
 topaz: Welcome Derpfest: Android 15
-topaz: add status indicator
 topaz: import DeviceSettings from ArrowOS-Devices/sweet
 topaz: DeviceSettings: Introduce Refresh Rate QS tile
 topaz: DeviceSettings: Rewrite Refresh Rate Tile for system-wide settings
 topaz: DeviceSettings: Fix Refresh-rate Tile issues on variable refresh-rate
 topaz: DeviceSettings: add android:exported to refresh rate tile service
 topaz: DeviceSettings: Added Device Specific Settings on Settings > System
-topaz: DeviceSettings: Support for Dirac Sound Booster [WIP]
+topaz: DeviceSettings: Support for Dirac Sound Enchance [WIP]
 topaz: DeviceSettings: remove DCDimming and dynamic RefreshRate summary
 topaz: DeviceSettings: Update for QPR2/QPR3
 topaz: DeviceSettings: Fix building for A14/A15 QPR2/QPR3
@@ -39,6 +42,7 @@ topaz: Bring back support for disabling backpressure propagation
 topaz: Explicitly disable Enable GL comp backpressure
 topaz: Disable SF client composition cache
 topaz: overlay-lineage: Disable turbulence noise
+topaz: add status indicator
 topaz: fastcharge without heat
 topaz: USSD Fixed 
 topaz: Visual SMS bug fixed
@@ -49,3 +53,7 @@ topaz: Battery life improvements
 topaz: Improvements at 60Hz
 topaz: Reduced lag in QS 
 topaz: Experimental changes for improved fluidity
+
+
+Know Issues:
+-
